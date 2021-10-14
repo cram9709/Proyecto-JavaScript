@@ -1,0 +1,9 @@
+#ignora la carpeta modulos
+node_modules
+
+# ignora variables de entorno
+.env
+
+#ignora carpeta de test
+request
+
